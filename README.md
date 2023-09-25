@@ -28,4 +28,4 @@ The main tasks to be carried out include:
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/yihonghhe/Project_Credibly.git

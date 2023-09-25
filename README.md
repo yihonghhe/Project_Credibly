@@ -21,11 +21,11 @@ The main tasks to be carried out include:
 ## Getting Started
 
 ### Prerequisites
-- Python (version x.x or higher)
-- Libraries: pandas, scikit-learn, etc. (You may need to add specific versions or other libraries based on your methods.)
+- Python (version 3.10)
+- Libraries: pandas, scikit-learn, etc.
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone [repository-link]
+git clone 

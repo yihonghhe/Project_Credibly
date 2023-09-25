@@ -18,6 +18,10 @@ The main tasks to be carried out include:
    - Combine multiple models to improve prediction accuracy. 
    - Techniques such as bagging, boosting, and stacking can be employed to blend models and leverage the strengths of each individual model.
 
+4. **Baseline Model - XGBoost**
+   - Before diving into complex modeling structures, we'll establish a baseline model using XGBoost. 
+   - The performance of XGBoost will serve as a reference to compare and evaluate the effectiveness of our more intricate approaches.
+
 ## Getting Started
 
 ### Prerequisites

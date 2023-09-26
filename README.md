@@ -5,11 +5,10 @@ This repository provides guidelines and methods to model data with both long and
 ## Project Guideline
 
 ### **Baseline Model - XGBoost**
-- Before diving into complex modeling structures, we'll establish a baseline model using XGBoost. 
-- The performance of XGBoost will serve as a reference to compare and evaluate the effectiveness of our more intricate approaches.
+Accuracy: 77.94%
 
 ### 1. Imputation
-
+Accuracy: 78.43%
 
 ### 2. 2-Stage Modeling
 

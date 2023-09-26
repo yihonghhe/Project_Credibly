@@ -1,4 +1,4 @@
-# Modeling Data with Long and Short History Features
+# Credibly Machine Learning
 
 This repository provides guidelines and methods to model data with both long and short history features. Our primary goal is to address challenges arising from datasets that have features with varying temporal histories, ensuring that features with sparse or incomplete histories are properly integrated without negatively impacting the model's performance.
 
@@ -22,8 +22,8 @@ This repository provides guidelines and methods to model data with both long and
 
 ### Prerequisites
 
-- Python (version x.x or higher)
-- Libraries: pandas, scikit-learn, xgboost, etc. (You may need to add specific versions or other libraries based on your methods.)
+- Python (v-3.10.4)
+- Libraries: pandas, scikit-learn, xgboost, etc.
 
 ### Installation
 

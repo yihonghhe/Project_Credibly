@@ -26,4 +26,4 @@ Accuracy: 78.43%
 
 1. Clone the repository:
 ```bash
-git clone [[repository-link]](https://github.com/yihonghhe/Project_Creditbly.git)https://github.com/yihonghhe/Project_Creditbly.git
+git clone https://github.com/yihonghhe/Project_Creditbly.git

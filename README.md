@@ -1,8 +1,6 @@
 # Credibly Machine Learning
 
-This repository provides guidelines and methods to model data with both long and short history features. Our primary goal is to address challenges arising from datasets that have features with varying temporal histories, ensuring that features with sparse or incomplete histories are properly integrated without negatively impacting the model's performance.
-
-## Project Guideline
+## Accuracy table
 
 ### **Baseline Model - XGBoost**
 Accuracy: 77.94%

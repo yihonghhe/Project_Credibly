@@ -1,18 +1,22 @@
 # Credibly Machine Learning
 
-## Accuracy table
+## AUC graphs
 
 ### **Baseline Model - XGBoost**
-Accuracy: 77.94%
+
+![Baseline Model Image](./images/baseline_result.jpg)
 
 ### 1. Imputation
-Accuracy: 78.43%
+
+![Imputation Image](./images/imputation_result.jpg)
 
 ### 2. 2-Stage Modeling
 
+![2-Stage Modeling Image](./images/2_stage_modeling_result.jpg)
 
 ### 3. Ensembling
 
+<!-- ![Ensembling Image](./images/ensembling.png) -->
 
 
 ## Getting Started

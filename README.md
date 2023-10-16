@@ -16,7 +16,7 @@
 
 ### 3. Ensembling
 
-<!-- ![Ensembling Image](./images/ensembling.png) -->
+![Ensembling Image](./images/ensembling.jpg)
 
 
 ## Getting Started

@@ -1,23 +1,11 @@
-# Credibly Machine Learning
+## Model Leaderboard
 
-## AUC graphs
-
-### **Baseline Model - XGBoost**
-
-![Baseline Model Image](./images/baseline_result.jpg)
-
-### 1. Imputation
-
-![Imputation Image](./images/imputation_result.jpg)
-
-### 2. 2-Stage Modeling
-
-![2-Stage Modeling Image](./images/2_stage_modeling_result.jpg)
-
-### 3. Ensembling
-
-![Ensembling Image](./images/ensembling.jpg)
-
+| Model                    | AUC Graph                                                    |
+| ------------------------ | ------------------------------------------------------------ |
+| Baseline Model - XGBoost | <img src="./images/baseline_result.jpg" width="400">         |
+| Imputation               | <img src="./images/imputation_result.jpg" width="400">       |
+| 2-Stage Modeling         | <img src="./images/2_stage_modeling_result.jpg" width="400"> |
+| Ensembling               | <img src="./images/ensembling.jpg" width="400">              |
 
 ## Getting Started
 
@@ -29,5 +17,7 @@
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yihonghhe/Project_Creditbly.git
+```

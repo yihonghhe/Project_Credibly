@@ -46,23 +46,23 @@ This repository contains the codebase for Credibly's Credit Risk Prediction proj
 
     * Imputation of missing values:
 
-        from sklearn.impute import SimpleImputer
+          from sklearn.impute import SimpleImputer
 
 
-        imputer = SimpleImputer(strategy="median")
+          imputer = SimpleImputer(strategy="median")
 
 
-        numeric_cols = df.select_dtypes(include=['number']).columns
+          numeric_cols = df.select_dtypes(include=['number']).columns
 
 
-        df[numeric_cols] = imputer.fit_transform(df[numeric_cols])
+          df[numeric_cols] = imputer.fit_transform(df[numeric_cols])
 
     * Separation data into training and validation sets:
 
-        train_df = df[df['TrainVal'] == 'Train_60']
+          train_df = df[df['TrainVal'] == 'Train_60']
 
 
-        val_df = df[df['TrainVal'] == 'Val_40']
+          val_df = df[df['TrainVal'] == 'Val_40']
 
 * **Example of imputation techniques (from imputation.ipynb)**
 
@@ -82,7 +82,7 @@ This repository contains the codebase for Credibly's Credit Risk Prediction proj
 
 * **Example of hyperparameter tuning (from ensembling.ipynb):**
 
-                 from sklearn.linear_model import LogisticRegression
+        from sklearn.linear_model import LogisticRegression
 
 
         from sklearn.feature_selection import SelectFromModel
@@ -241,8 +241,9 @@ Detailed handoff documentation can be found[here](https://docs.google.com/docume
 
 
 
-* Clone the repository: 
-    * git clone https://github.com/yihonghhe/Project_Creditbly.git
+* Clone the repository:
+
+      git clone https://github.com/yihonghhe/Project_Creditbly.git
 
 2. Execute cells in sequential order to reproduce results.
 
